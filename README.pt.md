@@ -26,7 +26,7 @@
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/600px-Bandeira_de_Minas_Gerais.svg.png?20220702112845"
     width="13"
   />
-  <b>Minas Gerais, Brasil</b>.<br/> Atualmente, Eu me especializo em construir aplicações empresariais utilizando C#, .NET, Entity Framework Core e PostgreSQL. Eu amo um desafio e sou hábil em progredir de uma proposta simples para uma solução bem definida, desenvolvida e testada.
+  <b>Minas Gerais, Brasil</b>.<br/> Atualmente, Eu me especializo em construir aplicações empresariais utilizando C#, .NET Core, Entity Framework Core, PostgreSQL, Angular e Flutter. Eu amo um desafio e sou hábil em progredir de uma proposta simples para uma solução bem definida, desenvolvida e testada.
 </p>
 
 <br/>
@@ -45,6 +45,22 @@
     <img
       alt="PostgreSQL"
       src="https://img.shields.io/badge/-PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white"
+    />
+    <img
+      alt="TypeScript"
+      src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
+    />
+    <img
+      alt="Angular"
+      src="https://img.shields.io/badge/-Angular-d1002e?style=flat-square&logo=angular&logoColor=white"
+    />
+    <img
+      alt="Dart"
+      src="https://img.shields.io/badge/-Dart-035597?style=flat-square&logo=dart&logoColor=white"
+    />
+    <img
+      alt="Flutter"
+      src="https://img.shields.io/badge/-Flutter-00bded?style=flat-square&logo=flutter&logoColor=white"
     />
   </p>
 <div>
